@@ -1,4 +1,4 @@
-#  Device Tree for Redmi K90 Pro Max / Poco F8 Ultra (myron)
+#  Device Tree for Redmi K90 Pro Max / POCO F8 Ultra (myron)
 
 ## Spec Sheet
 
@@ -10,7 +10,7 @@
 | Memory                  | 12 GB / 16 GB                                                                |
 | Shipped Software        | Android 16, HyperOS 3                                                        |
 | Storage                 | 256 GB / 512 GB / 1 TB                                                           |
-| Battery                 | Si/C Li-Ion 7560 mAh (china) / 5,300 mAh (global)                                                                   |
+| Battery                 | Si/C Li-Ion 7560 mAh (china) / 6,500 mAh (global)                                                                   |
 | Dimensions              | 163.3 x 77.8 x 7.9 mm                               |
 | Display                 | 6.9 inches, 116.6 cm2 (~91.8% screen-to-body ratio)                       |
 | Rear Camera             | 50 MP, f/1.7, 23mm (wide), 1/1.31", 1.2µm, dual pixel PDAF, OIS                            |
